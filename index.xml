@@ -2,10 +2,10 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Home on Edna West</title>
-    <link>https://example.com/</link>
+    <link>https://augustokerber.github.io/</link>
     <description>Recent content in Home on Edna West</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <copyright>© Augusto Kerber</copyright><atom:link href="https://example.com/index.xml" rel="self" type="application/rss+xml" />
+    <copyright>© Augusto Kerber</copyright><atom:link href="https://augustokerber.github.io/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
